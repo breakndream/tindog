@@ -1,4 +1,5 @@
 Checkout the website : https://breakndream.github.io/tindog/
+In fact, it's about my cat  :D
 
-![image](https://user-images.githubusercontent.com/94573832/169784414-04d9c311-5233-45da-a825-b10428147c26.png)
+![image](https://user-images.githubusercontent.com/94573832/169793892-64f2995a-6583-4fb0-be0f-a3cce15da571.png)
 
